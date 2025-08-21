@@ -1,6 +1,6 @@
 # Soy Bernardo Pironio 👋
 
-Actualmente estudio la licenciatura en ciencas fisicas en la Universidad de Buenos Aires. Ademas planeo, y estoy en proceso, de hacer el titulo intermedio de la licenciatura de Ciencia de Datos en la misma universidad. Aca subo proyectos de distintos tipos.
+Actualmente estudio la licenciatura en ciencas fisicas en la Universidad de Buenos Aires. Ademas planeo, y estoy en proceso de, hacer el titulo intermedio de la licenciatura de Ciencia de Datos en la misma universidad. Aca subo proyectos de distintos tipos.
 
 
 ## Manejo de instrumentos de laboratorio 🔬
